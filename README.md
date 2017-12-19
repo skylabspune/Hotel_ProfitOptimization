@@ -23,7 +23,15 @@ Note: No need to add any Dependency or Library.
 
 Feel free to open an issue or Pull request
 
+## Sample OutPut-
+Option 1 -
+![alt text](https://github.com/skylabspune/Hotel_ProfitOptimization/blob/master/DisplayBookedRoom.png)
 
+Option 2 -
+![alt text](https://github.com/skylabspune/Hotel_ProfitOptimization/blob/master/BookRoom.png)
+
+Option 3 -
+![alt text](https://github.com/skylabspune/Hotel_ProfitOptimization/blob/master/AfterBoookRoom.png)
 ## Contributors
 
 * Nikhil wayal nikhil.wayal007@gmail.com
