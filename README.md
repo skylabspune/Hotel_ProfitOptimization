@@ -1,6 +1,5 @@
 
 # Note-
-This requirement was displayed as Code Challange on a Comapany website for hiring.I coded but never actually submitted the work..
 
 [![Programming Language](https://img.shields.io/badge/language-java-orange.svg)]()
 [![license](https://img.shields.io/aur/license/yaourt.svg)](/LICENSE.md)
@@ -15,22 +14,25 @@ for further detailed requirement click the below link
 https://github.com/skylabspune/Hotel_ProfitOptimization/blob/master/Requirement.pdf
 
 ## Usage
-Run- Enter CheckIn Date according to test cases described in requirement document.
-After Checkin day is provided,the running code list all possible checkout dates satisfying all the constraints as per requirement.
-Enter any one Checkout date from the displayed List. 
+## Stpes For Running the Project.
+1) Checkin day is Inputed by user,
+2) Enter the RooomId for Room You want to Boook (User Must Refer Room Id By Only After Using Option 1 and List of Rooms and their       status is Been Displayed along with CheckIn Date as NULL and Checkout Date as Null for rooms Avilable)
+the running code list all possible checkout dates satisfying all the constraints as per requirement.
+3) Enter any one Checkout date from the displayed List. 
 
 Note: No need to add any Dependency or Library.
 
 Feel free to open an issue or Pull request
 
 ## Sample OutPut-
-Option 1 -
+
+When User Enter Option 1 -
 ![alt text](https://github.com/skylabspune/Hotel_ProfitOptimization/blob/master/DisplayBookedRoom.png)
 
-Option 2 -
+When User Enter Option 2 -
 ![alt text](https://github.com/skylabspune/Hotel_ProfitOptimization/blob/master/BookRoom.png)
 
-Option 3 -
+When User Enter Option 3 -
 ![alt text](https://github.com/skylabspune/Hotel_ProfitOptimization/blob/master/AfterBoookRoom.png)
 ## Contributors
 
